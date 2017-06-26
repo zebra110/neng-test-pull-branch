@@ -1,0 +1,4 @@
+在项目根目录添加文件名为`.gitattributes`的文本文件，写入如下格式的配置
+*.js linguist-language=java
+*.css linguist-language=java
+*.html linguist-language=java
